@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an SE student and new to Github.
+I'm an SE student and new to Github. (Not that new now.)
 
 <!--
 **UglyRabb1t/UglyRabb1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
